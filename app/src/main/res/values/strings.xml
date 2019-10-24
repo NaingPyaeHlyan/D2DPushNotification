@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">D2DPushNotification</string>
+
+    <array name="subscribe_items">
+        <item>Samsung</item>
+        <item>Mi</item>
+        <item>Ubuntu</item>
+    </array>
+
+    <array name="send_items">
+        <item>Samsung</item>
+        <item>Mi</item>
+        <item>Ubuntu</item>
+    </array>
+
+
+</resources>
